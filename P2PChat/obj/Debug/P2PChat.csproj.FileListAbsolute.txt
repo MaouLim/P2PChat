@@ -1,0 +1,7 @@
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\bin\Debug\P2PChat.exe.config
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\bin\Debug\P2PChat.exe
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\bin\Debug\P2PChat.pdb
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\obj\Debug\P2PChat.MainForm.resources
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\obj\Debug\P2PChat.csproj.GenerateResource.Cache
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\obj\Debug\P2PChat.exe
+c:\users\maou\documents\visual studio 2017\Projects\P2PChat\P2PChat\obj\Debug\P2PChat.pdb
